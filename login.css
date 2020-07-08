@@ -1,0 +1,97 @@
+        body {
+            background-image: url("comvecteezy267397.jpg");
+            background-size: cover;
+        }
+        
+        .form-box {
+            background-color: rgba(252, 222, 248, 0.596);
+            width: 340px;
+            height: 330px;
+            position: absolute;
+            padding: 50px;
+            top: 20%;
+            left: 10%;
+            border-top-left-radius: 100px;
+            border-bottom-right-radius: 100px;
+            overflow: hidden;
+        }
+        
+        .button-box {
+            width: 220px;
+            position: relative;
+            margin: 30px auto;
+            \\background-color: rgb(255, 255, 255);
+            box-shadow: 0 0 20px 9px #0d94ee57;
+            border-radius: 30px;
+        }
+        
+        .toggle-button {
+            padding: 10px 30px;
+            cursor: pointer;
+            background: transparent;
+            border: 0;
+            outline: none;
+            position: relative;
+        }
+        
+        #button {
+            top: 0;
+            left: 0;
+            position: absolute;
+            width: 110px;
+            height: 100%;
+            background: linear-gradient(to left, #06ffff, #1050ff);
+            border-radius: 30px;
+            transition: .5s;
+        }
+        
+        .input {
+            top: 150px;
+            position: absolute;
+            width: 280px;
+            transition: .5s;
+            padding: 10px;
+            align-items: center;
+        }
+        
+        .input1 {
+            width: 100%;
+            padding: 10px;
+            background: transparent;
+            margin: 10px;
+            border-style: solid;
+            border-radius: 30px;
+        }
+        
+        .submit-button {
+            width: 85%;
+            height: 100%;
+            background: linear-gradient(to left, #06ffff, #1050ff);
+            border-radius: 30px;
+            transition: .5s;
+            padding: 10px 30px;
+            cursor: pointer;
+            display: block;
+            margin: auto;
+            border: 0;
+            outline: none;
+        }
+        
+        .checkbox {
+            margin: 20px 10px 15px 0;
+        }
+        
+        span {
+            color: rgb(63, 0, 235);
+            font-size: 15px;
+            bottom: 60px;
+            position: absolute;
+        }
+        
+        #login {
+            left: 50px;
+        }
+        
+        #Register {
+            left: 450px;
+        }
